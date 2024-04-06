@@ -1,1 +1,1 @@
-# git-gains
+# Modular Muscle (aka gitgains)
