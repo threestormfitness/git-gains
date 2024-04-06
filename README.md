@@ -1,1 +1,3 @@
-# Modular Muscle (aka gitgains)
+# gitgain
+## from the Modular Muscle series (Three Storm Fitness)
+
